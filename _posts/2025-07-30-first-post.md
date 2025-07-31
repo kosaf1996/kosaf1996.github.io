@@ -1,9 +1,10 @@
 ---
-title: "2024-06-11-TIL"
+title: "테스트"
 author:
-  name: 서빈
-  link: https://github.com/leeseobin00
+  name: Gyoungmin.gu 
+  link: https://github.com/kosaf1996
+comments: true
 date: 2024-06-11 04:15:00 +0900
-categories: [Seobin, TIL]
-tags: [Seobin, TIL]
+categories: [Test ]
+tags: [Test]
 ---
