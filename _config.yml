@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Gyoung Min   # the main title
+title: Gyoung Min # the main title
 
 tagline: ⎈Happy Helming!⎈ # it will display as the subtitle
 
@@ -29,12 +29,12 @@ github:
   username: kosaf1996 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: gyoungmin.gu 
+  name: gyoungmin.gu
   email: kosaf1996@naver.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -94,7 +94,7 @@ theme_mode: dark # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: 
+cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar: assets/img/favicons/apple-touch-icon.png
