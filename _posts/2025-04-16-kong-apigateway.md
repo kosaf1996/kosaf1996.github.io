@@ -5,7 +5,7 @@ author:
   link: https://github.com/kosaf1996
 comments: true
 date: 2024-08-22 04:15:00 +0900
-categories: [Kubernetes]
+categories: [Kubernetes, 세미나]
 tags: [Kong, 세미나, Kubernetes]
 ---
 ### Agenda
